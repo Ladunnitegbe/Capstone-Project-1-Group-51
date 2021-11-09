@@ -76,6 +76,7 @@ h3{
     color:black;
     background-color: white;
 }
+}
 @media screen and (max-width: 500px) {
     html{
       font-size: 20px   
@@ -86,12 +87,13 @@ h3{
         background-size: calc(600px);
         background-color:hsl(225, 100%, 98%);} 
         font-family: 'Red Hat Display', sans-serif;
+}
         main{
-            height: 600px;
-            width: 400px;
-            margin-left: 35%;
-            margin-top: 60px;
+            height: 300px;
+            width: 200px;
+            margin-left: 20%;
+            margin-top: 30px;
             background-color: rgb(255, 255, 255);
-            border-radius: 12px;
+            border-radius: 8px;
         }
 }
