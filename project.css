@@ -97,3 +97,22 @@ h3{
     color: black;
 
 }
+@media screen and (max-width: 500px) {
+    html{
+      font-size: 20px   
+    } 
+    body{
+        background-image: url(images/pattern-background-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: calc(600px);
+        background-color:hsl(225, 100%, 98%);} 
+        font-family: 'Red Hat Display', sans-serif;}
+        main{
+            height: 300px;
+            width: 200px;
+            margin-left: 20%;
+            margin-top: 30px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 8px;
+        }
+}
