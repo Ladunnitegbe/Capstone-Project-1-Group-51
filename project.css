@@ -83,7 +83,7 @@ h3{
     body{
         background-image: url(images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: calc(600px);
         background-color:hsl(225, 100%, 98%);} 
         font-family: 'Red Hat Display', sans-serif;
         main{
