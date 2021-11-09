@@ -54,7 +54,8 @@ https://drive.google.com/folderview?id=1Qt2B3p1Tcc46dRk7vSbQ15KX4MiteWds
 ### What I learned
 
 Working on media query
-
+Learnt how to include a font family in a project from google fonts by linking it in the head section of the html file then declaring it in the css file
+Learnt how to include a font family in a project from google fonts by linking it in the head section of the html file then declaring it in the css file
 
 ### Useful resources
 
